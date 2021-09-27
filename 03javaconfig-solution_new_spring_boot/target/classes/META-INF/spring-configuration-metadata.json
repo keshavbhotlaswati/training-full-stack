@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "db",
+    "type": "javax.sql.DataSource",
+    "sourceType": "com.way2learnonline.BankApplication",
+    "sourceMethod": "public javax.sql.DataSource dataSource() "
+  }],
+  "properties": []
+}

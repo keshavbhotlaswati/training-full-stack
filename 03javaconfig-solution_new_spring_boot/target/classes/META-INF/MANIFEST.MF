@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: vishal
+Build-Jdk: 16.0.2
+Implementation-Title: 03javaconfig-solution
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.way2learnonline
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
